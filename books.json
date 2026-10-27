@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988
+  },
+  {
+    "id": 2,
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "year": 1958
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949
+  },
+  {
+    "id": 4,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "year": 1945
+  },
+  {
+    "id": 5,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937
+  },
+  {
+    "id": 6,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813
+  }
+]
